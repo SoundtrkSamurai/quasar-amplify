@@ -6,9 +6,9 @@
     "framework": "none",
     "config": {
       "SourceDir": "src",
-      "DistributionDir": "dist",
-      "BuildCommand": "npm run-script build",
-      "StartCommand": "npm run-script start"
+      "DistributionDir": "dist/spa",
+      "BuildCommand": "quasar build -m spa",
+      "StartCommand": "quasar serve dist/spa --history"
     }
   },
   "providers": [
