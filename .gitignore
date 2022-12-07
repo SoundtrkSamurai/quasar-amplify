@@ -126,3 +126,5 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 # Adding for AWS Amplify teams
 amplify/team-provider-info.json
+# Adding for AWS Amplify teams
+amplify/team-provider-info.json
